@@ -2,8 +2,8 @@ public class login
 {
 	public static void main (String args[])
 	{
-		int a=200;
-		int b=300;
+		int a=1000;
+		int b=2000;
 	}
 }
 
